@@ -9,3 +9,4 @@ It uses python 3.7. If you have not installed Anaconda, some additional packages
  - sklearn
  - glob
  - matplotlib
+ - jupyter notebook
